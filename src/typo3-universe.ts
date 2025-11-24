@@ -111,9 +111,9 @@ export class Typo3UniverseElement extends LitElement {
   static styles = css`
     :host {
       --universe-zindex: 1;
-      --universe-height: 40px;
+      --universe-height: 44px;
       --universe-font-size: 14px;
-      --universe-maxwidth: 1440px;
+      --universe-maxwidth: 1430px;
       --universe-text-color: #fff;
       --universe-divider-color: #555;
       --universe-link-color: #fff;
